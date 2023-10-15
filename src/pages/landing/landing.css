@@ -1,11 +1,10 @@
 .lading{
-    width: 100%;
+    width: 1200px;
     height: 675px;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    margin-left:60px;
     position: relative;
     margin-top: -170px;
 }
@@ -22,7 +21,6 @@
     left: 133px;
     top: 220px;
     z-index: 1;
-
 }
 
 .lading :nth-child(3){
