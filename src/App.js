@@ -11,7 +11,7 @@ function App() {
       <Landing />
       <EcommerceFinance/>
       <Projects/>
-    </div>
+ </div>
   );
 }
 

@@ -1,3 +1,4 @@
+
 .ecommerce-finance {
     width: 100%;
     display: flex;
@@ -67,12 +68,4 @@
     margin-bottom:  70px;
 
 
-}
-
-.ecommerce-finance .compo .compo1 p {
-    color: #131214;
-    font-size: 24px;
-    font-weight: 400;
-    text-align: start;
-    margin-bottom: 20px;
 }
