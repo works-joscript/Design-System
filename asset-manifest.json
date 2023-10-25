@@ -1,12 +1,18 @@
 {
   "files": {
-    "main.css": "/Design-System/static/css/main.7e41a23b.css",
-    "main.js": "/Design-System/static/js/main.ec5a3ed7.js",
+    "main.css": "/Design-System/static/css/main.49b6b4c0.css",
+    "main.js": "/Design-System/static/js/main.ca1c9452.js",
     "static/js/787.abe54bfc.chunk.js": "/Design-System/static/js/787.abe54bfc.chunk.js",
+    "static/media/UI Kit (1).svg": "/Design-System/static/media/UI Kit (1).ff33985fac706e329507e5cb316eeec9.svg",
+    "static/media/UI Kit.svg": "/Design-System/static/media/UI Kit.f277cc06ba558a124aae6f7cbb319514.svg",
     "static/media/image 146.svg": "/Design-System/static/media/image 146.efd7025e4a20e85ee917.svg",
     "static/media/img1.svg": "/Design-System/static/media/img1.2b0f662d91c22a24f898650c14808f6b.svg",
+    "static/media/UI Kit (4).svg": "/Design-System/static/media/UI Kit (4).395f13fde1a8b5c620fe5f71ef2b18b4.svg",
+    "static/media/UI Kit (2).svg": "/Design-System/static/media/UI Kit (2).60e31ff4644a587be11855821da1a49d.svg",
+    "static/media/UI Kit (3).svg": "/Design-System/static/media/UI Kit (3).60e31ff4644a587be11855821da1a49d.svg",
     "static/media/img10.svg": "/Design-System/static/media/img10.d4307c399a06ed66490dae708b2867ad.svg",
     "static/media/img6.svg": "/Design-System/static/media/img6.b5ec6b9c62b4ddfcb7ea2a22007ae782.svg",
+    "static/media/UI Kit (5).svg": "/Design-System/static/media/UI Kit (5).37369e3eee10aa83462f7134acfd45fe.svg",
     "static/media/img2.svg": "/Design-System/static/media/img2.62c8ee17ad756635ccfbc30fa2d6723f.svg",
     "static/media/img5.svg": "/Design-System/static/media/img5.fbd759e5c2a56ad59631336c33ff581c.svg",
     "static/media/img7.svg": "/Design-System/static/media/img7.7bbdf9d927c8bf250bf6332a11fc0249.svg",
@@ -17,12 +23,12 @@
     "static/media/img12.svg": "/Design-System/static/media/img12.d1e42dbd11431a1bee2b56b9041b48bd.svg",
     "static/media/img4.svg": "/Design-System/static/media/img4.988ea44ea0deff14a694cf2e99ef474f.svg",
     "index.html": "/Design-System/index.html",
-    "main.7e41a23b.css.map": "/Design-System/static/css/main.7e41a23b.css.map",
-    "main.ec5a3ed7.js.map": "/Design-System/static/js/main.ec5a3ed7.js.map",
+    "main.49b6b4c0.css.map": "/Design-System/static/css/main.49b6b4c0.css.map",
+    "main.ca1c9452.js.map": "/Design-System/static/js/main.ca1c9452.js.map",
     "787.abe54bfc.chunk.js.map": "/Design-System/static/js/787.abe54bfc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e41a23b.css",
-    "static/js/main.ec5a3ed7.js"
+    "static/css/main.49b6b4c0.css",
+    "static/js/main.ca1c9452.js"
   ]
 }
