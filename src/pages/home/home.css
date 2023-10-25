@@ -1,12 +1,10 @@
 .home-container{
     width: 100%;
-    height: 795px;
     background: #EFEFEF;
     background-image: url(./image\ 146.svg);
-    /* background-size: 100%; */
     background-repeat: no-repeat;
     background-position-x: right;
-    
+    padding: 200px 0 220px 0 ;
 }
 
 .home-container .title{
@@ -14,6 +12,7 @@
     align-items: center;
     justify-content:start;
     flex-direction: column;
+    flex-wrap: wrap;
 }
 
 .home-container .title .head-hent{
@@ -23,12 +22,16 @@
     font-style: normal;
     font-weight: 600;
     line-height: 150%;
-    margin-top: 160px;
 }
 .home-container .title .head-link-info{
     text-decoration: none;
     margin-top: -55px;
     margin-bottom: -40px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .home-container .title .head-link-info p:hover{
@@ -37,18 +40,17 @@
 }
 
 .home-container .title .head-link-info p{
-    width: 1056px;
+    width: 75%;
     text-align: center;
     color: #131214;
-    text-align: center;
     font-size: 64px;
-    font-style: normal;
     font-weight: 700;
     line-height: 120%; 
+    margin-top: 85px;
 }    
 
 .home-container .title .head-description{
-    width: 500px;
+    width: 50%;
     color: #131214;
     text-align: center;
     font-size: 18px;
@@ -56,12 +58,13 @@
     font-weight: 400;
     line-height: 150%; 
     letter-spacing: .5px;
+    margin-top: 80px;
 }
 .home-container .title .links-btn{
-    width: 468px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
+    flex-wrap: wrap;
     gap:16px ;
     margin-top: 50px;
 }

@@ -1,0 +1,78 @@
+.ecommerce-finance {
+    width: 100%;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    flex-direction: column;
+    margin-top: 120px;
+    padding: 0 120px 0 120px;
+
+}
+
+.ecommerce-finance .text h1 {
+    width: 85%;
+    color: #131214;
+    font-size: 40px;
+    text-align: start;
+    font-weight: 700;
+    line-height: 48px;
+    word-wrap: break-word
+}
+
+.ecommerce-finance .text p {
+    width: 85%;
+    color: #131214;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: start;
+    word-wrap: break-word;
+    margin-top: 20px;
+}
+
+.ecommerce-finance .compo {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 64px;
+    gap: 30px;
+}
+
+.ecommerce-finance .compo .compo1 {
+    width: 270px;
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.ecommerce-finance .compo .compo1 h2 {
+    color: #7257FF;
+    height: 70px;
+    font-size: 40px;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.ecommerce-finance .compo .compo1 h3 {
+    text-align: start;
+    color: #131214;
+    font-size: 24px;
+    font-weight: 700;
+    height: 20px;
+    line-height:30px;
+    margin-bottom:  70px;
+
+
+}
+
+.ecommerce-finance .compo .compo1 p {
+    color: #131214;
+    font-size: 24px;
+    font-weight: 400;
+    text-align: start;
+    margin-bottom: 20px;
+}
